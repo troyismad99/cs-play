@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.808.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0242ValidAnagram", "leetcode\0242ValidAnagram.csproj", "{67B9CED2-CCC5-4789-8899-C4F2E803FC16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020-ValidParentheses", "0020-ValidParentheses\0020-ValidParentheses.csproj", "{162BF6CC-5D2B-4A99-8427-319D0B3A7398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{67B9CED2-CCC5-4789-8899-C4F2E803FC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B9CED2-CCC5-4789-8899-C4F2E803FC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B9CED2-CCC5-4789-8899-C4F2E803FC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
