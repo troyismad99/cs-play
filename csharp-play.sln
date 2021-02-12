@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0242ValidAnagram", "leetcod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020-ValidParentheses", "0020-ValidParentheses\0020-ValidParentheses.csproj", "{162BF6CC-5D2B-4A99-8427-319D0B3A7398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342-NumberOfStepsToReduceNumberToZero", "1342-NumberOfStepsToReduceNumberToZero\1342-NumberOfStepsToReduceNumberToZero.csproj", "{73538495-EB90-48CE-A837-DCA72B238C44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{162BF6CC-5D2B-4A99-8427-319D0B3A7398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73538495-EB90-48CE-A837-DCA72B238C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73538495-EB90-48CE-A837-DCA72B238C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73538495-EB90-48CE-A837-DCA72B238C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73538495-EB90-48CE-A837-DCA72B238C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
