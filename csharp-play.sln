@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342-NumberOfStepsToReduceN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091-ShortestPathinBinaryMatrix", "1091-ShortestPathinBinaryMatrix\1091-ShortestPathinBinaryMatrix.csproj", "{F6DEEB0B-8EAC-4D86-B8D2-5C686439C67E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0785-IsGraphBipartite", "0785-IsGraphBipartite\0785-IsGraphBipartite.csproj", "{A9435FD4-8A63-46E1-9C68-13568D170398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F6DEEB0B-8EAC-4D86-B8D2-5C686439C67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6DEEB0B-8EAC-4D86-B8D2-5C686439C67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6DEEB0B-8EAC-4D86-B8D2-5C686439C67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9435FD4-8A63-46E1-9C68-13568D170398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9435FD4-8A63-46E1-9C68-13568D170398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9435FD4-8A63-46E1-9C68-13568D170398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9435FD4-8A63-46E1-9C68-13568D170398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
