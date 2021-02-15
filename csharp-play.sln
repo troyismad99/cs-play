@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091-ShortestPathinBinaryMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0785-IsGraphBipartite", "0785-IsGraphBipartite\0785-IsGraphBipartite.csproj", "{A9435FD4-8A63-46E1-9C68-13568D170398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337-TheKWeakestRowsinaMatrix", "1337-TheKWeakestRowsinaMatrix\1337-TheKWeakestRowsinaMatrix.csproj", "{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A9435FD4-8A63-46E1-9C68-13568D170398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9435FD4-8A63-46E1-9C68-13568D170398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9435FD4-8A63-46E1-9C68-13568D170398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
