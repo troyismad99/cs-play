@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0785-IsGraphBipartite", "07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337-TheKWeakestRowsinaMatrix", "1337-TheKWeakestRowsinaMatrix\1337-TheKWeakestRowsinaMatrix.csproj", "{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DYnamicProgramming\DYnamicProgramming.csproj", "{FC082B20-9632-4C38-B503-433F2317DE82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE07DD1-01C8-47E9-9ADE-DA2CA3C27EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC082B20-9632-4C38-B503-433F2317DE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC082B20-9632-4C38-B503-433F2317DE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC082B20-9632-4C38-B503-433F2317DE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC082B20-9632-4C38-B503-433F2317DE82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
