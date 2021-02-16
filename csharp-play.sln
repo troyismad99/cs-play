@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337-TheKWeakestRowsinaMatr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DYnamicProgramming\DYnamicProgramming.csproj", "{FC082B20-9632-4C38-B503-433F2317DE82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0784-LetterCasePermutation", "0784-LetterCasePermutation\0784-LetterCasePermutation.csproj", "{48B8A859-1B82-4CF1-8628-8780A4844656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FC082B20-9632-4C38-B503-433F2317DE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC082B20-9632-4C38-B503-433F2317DE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC082B20-9632-4C38-B503-433F2317DE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B8A859-1B82-4CF1-8628-8780A4844656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B8A859-1B82-4CF1-8628-8780A4844656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B8A859-1B82-4CF1-8628-8780A4844656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B8A859-1B82-4CF1-8628-8780A4844656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
