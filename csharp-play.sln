@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0784-LetterCasePermutation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011-ContainerWithMostWater", "0011-ContainerWithMostWater\0011-ContainerWithMostWater.csproj", "{BFE5EDC0-3524-46FF-870E-1373B7ABE623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0135-Candy", "0135-Candy\0135-Candy.csproj", "{6A888752-F037-49FE-8FE3-2CE07C6FE6C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{BFE5EDC0-3524-46FF-870E-1373B7ABE623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE5EDC0-3524-46FF-870E-1373B7ABE623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE5EDC0-3524-46FF-870E-1373B7ABE623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A888752-F037-49FE-8FE3-2CE07C6FE6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A888752-F037-49FE-8FE3-2CE07C6FE6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A888752-F037-49FE-8FE3-2CE07C6FE6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A888752-F037-49FE-8FE3-2CE07C6FE6C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
