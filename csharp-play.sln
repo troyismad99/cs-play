@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0135-Candy", "0135-Candy\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0413-ArithmeticSlices", "0413-ArithmeticSlices\0413-ArithmeticSlices.csproj", "{06310176-9FC2-476B-A297-E164018A51F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleBrackets", "AngleBrackets\AngleBrackets.csproj", "{9A0F93A2-D3B2-4A75-A12E-72A591D924A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{06310176-9FC2-476B-A297-E164018A51F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06310176-9FC2-476B-A297-E164018A51F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06310176-9FC2-476B-A297-E164018A51F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0F93A2-D3B2-4A75-A12E-72A591D924A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0F93A2-D3B2-4A75-A12E-72A591D924A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0F93A2-D3B2-4A75-A12E-72A591D924A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0F93A2-D3B2-4A75-A12E-72A591D924A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
