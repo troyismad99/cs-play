@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstitutionCipher", "Subst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeHeight", "BinaryTreeHeight\BinaryTreeHeight.csproj", "{FBB6896A-3433-43A5-87EB-CC2A99424C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLargerSide", "BinaryTreeLargerSide\BinaryTreeLargerSide.csproj", "{3368564F-18B6-4A18-9AA8-4D2A6421C484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FBB6896A-3433-43A5-87EB-CC2A99424C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB6896A-3433-43A5-87EB-CC2A99424C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB6896A-3433-43A5-87EB-CC2A99424C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
