@@ -27,6 +27,12 @@ Constraints:
     0 <= s.length <= 5 * 104
     s consists of English letters, digits, symbols and spaces.
  */
+
+
+/*
+ * Runtime: 324 ms, faster than 13.96% of C# online submissions for Longest Substring Without Repeating Characters.
+ * Memory Usage: 26.3 MB, less than 73.23% of C# online submissions for Longest Substring Without Repeating Characters.
+ */
 namespace _0003_LongestSubstringWithoutRepeatingCharacters
 {
     class Program
