@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleBrackets", "AngleBrack
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1249-MinimumRemovetoMakeValidParentheses", "1249-MinimumRemovetoMakeValidParentheses\1249-MinimumRemovetoMakeValidParentheses.csproj", "{81DB1FF1-1AB2-4ADC-A1BB-F606E6D4A635}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003-LongestSubstringWithoutRepeatingCharacters", "0003-LongestSubstringWithoutRepeatingCharacters\0003-LongestSubstringWithoutRepeatingCharacters.csproj", "{6C65A310-0AD5-4982-8D4E-457E558C132D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{81DB1FF1-1AB2-4ADC-A1BB-F606E6D4A635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81DB1FF1-1AB2-4ADC-A1BB-F606E6D4A635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81DB1FF1-1AB2-4ADC-A1BB-F606E6D4A635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C65A310-0AD5-4982-8D4E-457E558C132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C65A310-0AD5-4982-8D4E-457E558C132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C65A310-0AD5-4982-8D4E-457E558C132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C65A310-0AD5-4982-8D4E-457E558C132D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
