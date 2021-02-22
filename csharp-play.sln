@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeHeight", "BinaryT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLargerSide", "BinaryTreeLargerSide\BinaryTreeLargerSide.csproj", "{3368564F-18B6-4A18-9AA8-4D2A6421C484}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0524-LongestWordinDictionarythroughDeleting", "0524-LongestWordinDictionarythroughDeleting\0524-LongestWordinDictionarythroughDeleting.csproj", "{12CE6BF3-E9A1-4123-988D-E52457350051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3368564F-18B6-4A18-9AA8-4D2A6421C484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CE6BF3-E9A1-4123-988D-E52457350051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CE6BF3-E9A1-4123-988D-E52457350051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CE6BF3-E9A1-4123-988D-E52457350051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CE6BF3-E9A1-4123-988D-E52457350051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
