@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0524-LongestWordinDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0991-BrokenCalculator", "0991-BrokenCalculator\0991-BrokenCalculator.csproj", "{ACCC5151-7BA7-4BD6-93F1-96925CA15FE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0240-Searcha2DMatrixII", "0240-Searcha2DMatrixII\0240-Searcha2DMatrixII.csproj", "{94D90C0A-3C90-4047-8913-275A35CAB8EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{ACCC5151-7BA7-4BD6-93F1-96925CA15FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACCC5151-7BA7-4BD6-93F1-96925CA15FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACCC5151-7BA7-4BD6-93F1-96925CA15FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
