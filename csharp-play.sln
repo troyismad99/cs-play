@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0991-BrokenCalculator", "09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0240-Searcha2DMatrixII", "0240-Searcha2DMatrixII\0240-Searcha2DMatrixII.csproj", "{94D90C0A-3C90-4047-8913-275A35CAB8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0856-ScoreofParentheses", "0856-ScoreofParentheses\0856-ScoreofParentheses.csproj", "{3EADD861-C4AD-4DCD-A36E-83803B406B3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D90C0A-3C90-4047-8913-275A35CAB8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
