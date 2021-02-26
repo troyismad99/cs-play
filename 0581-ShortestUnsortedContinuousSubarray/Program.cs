@@ -47,40 +47,40 @@ namespace _0581_ShortestUnsortedContinuousSubarray
         }
         static int FindUnsortedSubarray(int[] nums)
         {
+            // a new array that matches the finished product
             var sorted = new int[nums.Length];
+
             Array.Copy(nums, sorted, nums.Length);
             Array.Sort(sorted);
-            if (nums == sorted)
-            {
-                return 0;
-            }
 
-            int low = 0;
-            bool lowSet = false;
-            int high = 0;
+            // fin 
+            if (nums == sorted) return 0;
+            
+
+            // find the lowest and highest indexes that are not sorted
+            int low = -1;
+            int high = -1;
+
             for (int i = 0; i < nums.Length; i++)
             {
+                // is the int in the proper place?
                 if (nums[i] != sorted[i])
                 {
-                    if (!lowSet)
+                    if (low == -1)
                     {
+                        // never change the lowest unsorted
                         low = i;
-                        lowSet = true;
                     }
                     else
                     {
+                        // adjust to the highest unsorted
                         high = i + 1;
                     }
                 }
             }
+
             return high - low;
 
-
-
-
-
-
-            return 0;
         }
     }
 }
