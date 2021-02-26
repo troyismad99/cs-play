@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0240-Searcha2DMatrixII", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0856-ScoreofParentheses", "0856-ScoreofParentheses\0856-ScoreofParentheses.csproj", "{3EADD861-C4AD-4DCD-A36E-83803B406B3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0946-ValidateStackSequences", "0946-ValidateStackSequences\0946-ValidateStackSequences.csproj", "{B6C3745E-0FAF-4506-8184-25C7746B34A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EADD861-C4AD-4DCD-A36E-83803B406B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C3745E-0FAF-4506-8184-25C7746B34A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C3745E-0FAF-4506-8184-25C7746B34A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C3745E-0FAF-4506-8184-25C7746B34A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C3745E-0FAF-4506-8184-25C7746B34A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
