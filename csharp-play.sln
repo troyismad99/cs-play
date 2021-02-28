@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0946-ValidateStackSequences
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0581-ShortestUnsortedContinuousSubarray", "0581-ShortestUnsortedContinuousSubarray\0581-ShortestUnsortedContinuousSubarray.csproj", "{1B131528-8A4F-471D-8D12-BBD53944A179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0895-MaximumFrequencyStack", "0895-MaximumFrequencyStack\0895-MaximumFrequencyStack.csproj", "{60EA50A2-5F2E-4A22-81F1-56054B2FE8EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{1B131528-8A4F-471D-8D12-BBD53944A179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B131528-8A4F-471D-8D12-BBD53944A179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B131528-8A4F-471D-8D12-BBD53944A179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EA50A2-5F2E-4A22-81F1-56054B2FE8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EA50A2-5F2E-4A22-81F1-56054B2FE8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EA50A2-5F2E-4A22-81F1-56054B2FE8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EA50A2-5F2E-4A22-81F1-56054B2FE8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
