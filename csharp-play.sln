@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0895-MaximumFrequencyStack"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0575-DistributeCandies", "0575-DistributeCandies\0575-DistributeCandies.csproj", "{EEDDC500-F6E0-4644-802B-200BA82C83D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0645-SetMismatch", "0645-SetMismatch\0645-SetMismatch.csproj", "{C2A73CA3-C379-4991-8836-4364D65E076A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{EEDDC500-F6E0-4644-802B-200BA82C83D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEDDC500-F6E0-4644-802B-200BA82C83D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEDDC500-F6E0-4644-802B-200BA82C83D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A73CA3-C379-4991-8836-4364D65E076A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A73CA3-C379-4991-8836-4364D65E076A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A73CA3-C379-4991-8836-4364D65E076A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A73CA3-C379-4991-8836-4364D65E076A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
