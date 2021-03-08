@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0268-MissingNumber", "0268-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1332-RemovePalindromicSubsequences", "1332-RemovePalindromicSubsequences\1332-RemovePalindromicSubsequences.csproj", "{57B58255-4B3E-46CA-8DAB-92CF9EC1CF21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0160-IntersectionofTwoLinkedLists", "0160-IntersectionofTwoLinkedLists\0160-IntersectionofTwoLinkedLists.csproj", "{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{57B58255-4B3E-46CA-8DAB-92CF9EC1CF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57B58255-4B3E-46CA-8DAB-92CF9EC1CF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57B58255-4B3E-46CA-8DAB-92CF9EC1CF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
