@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1332-RemovePalindromicSubse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0160-IntersectionofTwoLinkedLists", "0160-IntersectionofTwoLinkedLists\0160-IntersectionofTwoLinkedLists.csproj", "{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0322-CoinChange", "0322-CoinChange\0322-CoinChange.csproj", "{4A332039-0E8C-49E2-97E2-DFB2B56D2D11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B15C21D0-6354-439E-8263-7E4F7BB8B1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A332039-0E8C-49E2-97E2-DFB2B56D2D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A332039-0E8C-49E2-97E2-DFB2B56D2D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A332039-0E8C-49E2-97E2-DFB2B56D2D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A332039-0E8C-49E2-97E2-DFB2B56D2D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
