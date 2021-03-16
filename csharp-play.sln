@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007-ReverseInteger", "0007
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReformatPhoneNumber", "ReformatPhoneNumber\ReformatPhoneNumber.csproj", "{16090A30-B3D9-411D-A551-8D42D9726B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0823-BinaryTreesWithFactors", "0823-BinaryTreesWithFactors\0823-BinaryTreesWithFactors.csproj", "{3E9487AF-B9BF-4E84-B660-C0707D36C585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{16090A30-B3D9-411D-A551-8D42D9726B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16090A30-B3D9-411D-A551-8D42D9726B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16090A30-B3D9-411D-A551-8D42D9726B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
