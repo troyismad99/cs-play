@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReformatPhoneNumber", "Refo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0823-BinaryTreesWithFactors", "0823-BinaryTreesWithFactors\0823-BinaryTreesWithFactors.csproj", "{3E9487AF-B9BF-4E84-B660-C0707D36C585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1721-SwappingNodesinaLinkedList", "1721-SwappingNodesinaLinkedList\1721-SwappingNodesinaLinkedList.csproj", "{1B1315AF-3867-4103-8591-CEF046B0CFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9487AF-B9BF-4E84-B660-C0707D36C585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1315AF-3867-4103-8591-CEF046B0CFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1315AF-3867-4103-8591-CEF046B0CFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1315AF-3867-4103-8591-CEF046B0CFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1315AF-3867-4103-8591-CEF046B0CFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
