@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1721-SwappingNodesinaLinked
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0535-EncodeandDecodeTinyURL", "0535-EncodeandDecodeTinyURL\0535-EncodeandDecodeTinyURL.csproj", "{06461278-D91B-4153-8229-6D9A78F081DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0714-BestTimetoBuyandSellStockwithTransactionFee", "0714-BestTimetoBuyandSellStockwithTransactionFee\0714-BestTimetoBuyandSellStockwithTransactionFee.csproj", "{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{06461278-D91B-4153-8229-6D9A78F081DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06461278-D91B-4153-8229-6D9A78F081DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06461278-D91B-4153-8229-6D9A78F081DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
