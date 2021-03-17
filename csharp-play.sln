@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0535-EncodeandDecodeTinyURL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0714-BestTimetoBuyandSellStockwithTransactionFee", "0714-BestTimetoBuyandSellStockwithTransactionFee\0714-BestTimetoBuyandSellStockwithTransactionFee.csproj", "{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0478-GenerateRandomPointinaCircle", "0478-GenerateRandomPointinaCircle\0478-GenerateRandomPointinaCircle.csproj", "{C1A87217-7E17-43F6-964D-EF0BF16F89FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E646A9C3-663C-4BE6-BAE4-D4ACC25B1BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
