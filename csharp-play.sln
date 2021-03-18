@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0714-BestTimetoBuyandSellSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0478-GenerateRandomPointinaCircle", "0478-GenerateRandomPointinaCircle\0478-GenerateRandomPointinaCircle.csproj", "{C1A87217-7E17-43F6-964D-EF0BF16F89FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0376-WiggleSubsequence", "0376-WiggleSubsequence\0376-WiggleSubsequence.csproj", "{9DDD2874-B209-472B-8DFA-94D8389FD6AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A87217-7E17-43F6-964D-EF0BF16F89FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDD2874-B209-472B-8DFA-94D8389FD6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDD2874-B209-472B-8DFA-94D8389FD6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDD2874-B209-472B-8DFA-94D8389FD6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDD2874-B209-472B-8DFA-94D8389FD6AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
