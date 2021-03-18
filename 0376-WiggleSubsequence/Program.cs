@@ -66,6 +66,13 @@ namespace _0376_WiggleSubsequence
             int positive = 1;
             int negative = 1;
 
+            /*
+             * We need to compare the differences to have a pattern
+             * that is +, -, +, -, +
+             * The pattern can start with either + or -
+             */
+
+
             // check each value against the prior value
             for (int i = 1; i < nums.Length; i++)
             {
@@ -73,6 +80,7 @@ namespace _0376_WiggleSubsequence
                  * A positive result when comparing will add to the length 
                  * of the last negative count. This will filter out two or more
                  * positives in a row.
+                 * The same logic applies to a negative difference
                  */
 
                 if (nums[i] > nums[i - 1])
