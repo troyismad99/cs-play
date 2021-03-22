@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0841-KeysandRooms", "0841-K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1396-DesignUndergroundSystem", "1396-DesignUndergroundSystem\1396-DesignUndergroundSystem.csproj", "{40D55735-2AB1-4181-8BD4-AAED08B1ED2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0966-VowelSpellchecker", "0966-VowelSpellchecker\0966-VowelSpellchecker.csproj", "{FCA831A8-2118-440C-A746-6C062728B68C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{40D55735-2AB1-4181-8BD4-AAED08B1ED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D55735-2AB1-4181-8BD4-AAED08B1ED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D55735-2AB1-4181-8BD4-AAED08B1ED2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA831A8-2118-440C-A746-6C062728B68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA831A8-2118-440C-A746-6C062728B68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA831A8-2118-440C-A746-6C062728B68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA831A8-2118-440C-A746-6C062728B68C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
