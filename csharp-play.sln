@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0916-WordSubsets", "0916-Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0647-PalindromicSubstrings", "0647-PalindromicSubstrings\0647-PalindromicSubstrings.csproj", "{5072A318-6BB2-44BA-8E68-30B11AB9E708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0423-ReconstructOriginalDigitsfromEnglish", "0423-ReconstructOriginalDigitsfromEnglish\0423-ReconstructOriginalDigitsfromEnglish.csproj", "{800F87B0-C16E-4ACC-807A-F10245F4F791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{5072A318-6BB2-44BA-8E68-30B11AB9E708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5072A318-6BB2-44BA-8E68-30B11AB9E708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5072A318-6BB2-44BA-8E68-30B11AB9E708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
