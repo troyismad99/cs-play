@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0647-PalindromicSubstrings"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0423-ReconstructOriginalDigitsfromEnglish", "0423-ReconstructOriginalDigitsfromEnglish\0423-ReconstructOriginalDigitsfromEnglish.csproj", "{800F87B0-C16E-4ACC-807A-F10245F4F791}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0971-FlipBinaryTreeToMatchPreorderTraversal", "0971-FlipBinaryTreeToMatchPreorderTraversal\0971-FlipBinaryTreeToMatchPreorderTraversal.csproj", "{182E1D08-7762-4952-994F-AECDF45A5EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{800F87B0-C16E-4ACC-807A-F10245F4F791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
