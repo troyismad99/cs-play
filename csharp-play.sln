@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0423-ReconstructOriginalDig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0971-FlipBinaryTreeToMatchPreorderTraversal", "0971-FlipBinaryTreeToMatchPreorderTraversal\0971-FlipBinaryTreeToMatchPreorderTraversal.csproj", "{182E1D08-7762-4952-994F-AECDF45A5EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0354-RussianDollEnvelopes", "0354-RussianDollEnvelopes\0354-RussianDollEnvelopes.csproj", "{B97F84A4-EF13-4A10-8A95-C005DB5EB381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{182E1D08-7762-4952-994F-AECDF45A5EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
