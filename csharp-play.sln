@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0971-FlipBinaryTreeToMatchP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0354-RussianDollEnvelopes", "0354-RussianDollEnvelopes\0354-RussianDollEnvelopes.csproj", "{B97F84A4-EF13-4A10-8A95-C005DB5EB381}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0936-StampingTheSequence", "0936-StampingTheSequence\0936-StampingTheSequence.csproj", "{F98E944C-1305-4095-ADA7-F25148336F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B97F84A4-EF13-4A10-8A95-C005DB5EB381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98E944C-1305-4095-ADA7-F25148336F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98E944C-1305-4095-ADA7-F25148336F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98E944C-1305-4095-ADA7-F25148336F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98E944C-1305-4095-ADA7-F25148336F16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
