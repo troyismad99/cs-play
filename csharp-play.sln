@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0354-RussianDollEnvelopes",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0936-StampingTheSequence", "0936-StampingTheSequence\0936-StampingTheSequence.csproj", "{F98E944C-1305-4095-ADA7-F25148336F16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0474-OnesandZeroes", "0474-OnesandZeroes\0474-OnesandZeroes.csproj", "{FEC4400C-6A0D-45DE-BA9C-FD956AB889CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{F98E944C-1305-4095-ADA7-F25148336F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F98E944C-1305-4095-ADA7-F25148336F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F98E944C-1305-4095-ADA7-F25148336F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC4400C-6A0D-45DE-BA9C-FD956AB889CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC4400C-6A0D-45DE-BA9C-FD956AB889CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC4400C-6A0D-45DE-BA9C-FD956AB889CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC4400C-6A0D-45DE-BA9C-FD956AB889CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
